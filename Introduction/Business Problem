@@ -1,0 +1,11 @@
+###1. A description of the problem and a discussion of the background. (15 marks)
+#The battle of the neighborhoods is a great opportunity to conduct exercises comparing neighborhoods anywhere in the world, 
+#to know their multiculturalism, their length, size of inhabitants, distances, routes, most important avenues. 
+#For that reason I am very interested in being able to make the comparison between Bogota and New York. 
+#Both cities have millions of people living in them.
+#A capstone tool of geolocation analytics is very useful at the time of attracting investment from the government.
+
+###2.A description of the data and how it will be used to solve the problem. (15 marks)
+#For the city of new york we already have the data set location available. In the city of Bogota a wikipedia page will be used 
+#where it has important information of the main locations of the city, 
+#additionally it would use the Foursquare API to be able to capture all the data and interpret them later.
